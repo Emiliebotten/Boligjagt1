@@ -173,7 +173,7 @@
   "cityapartment:38516": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
-    "notified": true,
+    "notified": false,
     "rent": 17550,
     "status": "ledig",
     "title": "Gerbrandsvej 2, 1. th",
@@ -200,7 +200,7 @@
   "cityapartment:39041": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
-    "notified": true,
+    "notified": false,
     "rent": 21450,
     "status": "ledig",
     "title": "Østerbrogade 39, 2. tv.",
@@ -218,7 +218,7 @@
   "cityapartment:39108": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
-    "notified": true,
+    "notified": false,
     "rent": 20950,
     "status": "ledig",
     "title": "Smallegade 8, 4. Th.",
