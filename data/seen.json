@@ -555,8 +555,8 @@
     "notified": false,
     "rent": 18108,
     "reserved_notified": false,
-    "status": "ledig",
+    "status": "reserveret",
     "title": "Ved Klosteret 4, st. th, 2100 København Ø",
-    "url": "https://kereby.dk/bolig/ved-klosteret-4-st-th-2100-kobenhavn/"
+    "url": "https://kereby.dk/bolig/"
   }
 }
