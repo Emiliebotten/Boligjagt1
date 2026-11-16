@@ -478,7 +478,7 @@
     "last_seen": "2026-11-16",
     "notified": false,
     "rent": 16350,
-    "status": "reserveret",
+    "status": "udlejet",
     "title": "Lyongade 12, 3. th, 2300 København S",
     "url": "https://kereby.dk/bolig/"
   },
@@ -487,7 +487,7 @@
     "last_seen": "2026-11-16",
     "notified": false,
     "rent": 20447,
-    "status": "reserveret",
+    "status": "udlejet",
     "title": "Nørrebrogade 41, 3. th, 2200 København N",
     "url": "https://kereby.dk/bolig/"
   },
