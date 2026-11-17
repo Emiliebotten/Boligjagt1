@@ -496,5 +496,15 @@
     "status": "reserveret",
     "title": "Bredegrund 42, 2. tv, 2300 København S",
     "url": "https://kereby.dk/bolig/"
+  },
+  "kereby:28607": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "notified": false,
+    "rent": 10703,
+    "reserved_notified": false,
+    "status": "reserveret",
+    "title": "Valby Langgade 75, 3. th, 2500 Valby",
+    "url": "https://kereby.dk/bolig/"
   }
 }
