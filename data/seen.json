@@ -568,5 +568,15 @@
     "status": "reserveret",
     "title": "Ved Klosteret 4, st. th, 2100 København Ø",
     "url": "https://kereby.dk/bolig/"
+  },
+  "kereby:28601": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "notified": false,
+    "rent": 11606,
+    "reserved_notified": true,
+    "status": "reserveret",
+    "title": "Bredegrund 42, 2. tv, 2300 København S",
+    "url": "https://kereby.dk/bolig/"
   }
 }
