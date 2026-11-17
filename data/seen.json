@@ -588,5 +588,15 @@
     "status": "reserveret",
     "title": "Valby Langgade 75, 3. th, 2500 Valby",
     "url": "https://kereby.dk/bolig/"
+  },
+  "kereby:28645": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "notified": true,
+    "rent": 15696,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Nørrebrogade 30, 2. th, 2200 København N",
+    "url": "https://kereby.dk/bolig/norrebrogade-30-2-th-2200-kobenhavn-n/"
   }
 }
