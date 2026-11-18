@@ -516,5 +516,15 @@
     "status": "reserveret",
     "title": "Nørrebrogade 30, 2. th, 2200 København N",
     "url": "https://kereby.dk/bolig/"
+  },
+  "kereby:28650": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "notified": true,
+    "rent": 26227,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Jagtvej 183, 1. tv, 2100 København Ø",
+    "url": "https://kereby.dk/bolig/jagtvej-183-1-tv-2100-kobenhavn/"
   }
 }
