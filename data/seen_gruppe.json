@@ -530,11 +530,11 @@
   "kereby:28666": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
-    "notified": false,
+    "notified": true,
     "rent": 25570,
     "reserved_notified": true,
-    "status": "udlejet",
+    "status": "ledig",
     "title": "Sølvgade 14, 3. th, 1307 København K",
-    "url": "https://kereby.dk/bolig/"
+    "url": "https://kereby.dk/bolig/solvgade-14-3-th-1307-kobenhavn-k/"
   }
 }
