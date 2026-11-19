@@ -243,6 +243,16 @@
     "title": "Bøhmensgade 14, 3. tv.",
     "url": "https://cityapartment.dk/cityapartments/bohmensgade-14-3-tv/"
   },
+  "cityapartment:39200": {
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "notified": false,
+    "rent": 14000,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Sjællandasgade 7, 3. sal",
+    "url": "https://cityapartment.dk/cityapartments/sjaellandsgade-7-3-sal/"
+  },
   "kereby:27113": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-19",
