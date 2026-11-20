@@ -556,5 +556,15 @@
     "status": "ledig",
     "title": "Drogdensgade 4, 5., 2300 København S",
     "url": "https://kereby.dk/bolig/drogdensgade-4-5-2300-kobenhavn-s/"
+  },
+  "kereby:28738": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "notified": true,
+    "rent": 25333,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Heimdalsgade 10B, st., 2200 København N",
+    "url": "https://kereby.dk/bolig/heimdalsgade-10b-st-2200-kobenhavn-n/"
   }
 }
