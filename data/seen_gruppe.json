@@ -563,8 +563,8 @@
     "notified": true,
     "rent": 25333,
     "reserved_notified": false,
-    "status": "ledig",
+    "status": "reserveret",
     "title": "Heimdalsgade 10B, st., 2200 København N",
-    "url": "https://kereby.dk/bolig/heimdalsgade-10b-st-2200-kobenhavn-n/"
+    "url": "https://kereby.dk/bolig/"
   }
 }
