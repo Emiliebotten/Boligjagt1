@@ -253,6 +253,16 @@
     "title": "Sjællandasgade 7, 3. sal",
     "url": "https://cityapartment.dk/cityapartments/sjaellandsgade-7-3-sal/"
   },
+  "cityapartment:39255": {
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "notified": false,
+    "rent": 13300,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Kildevej 12, 2. tv.",
+    "url": "https://cityapartment.dk/cityapartments/kildevej-12-2-tv/"
+  },
   "kereby:27113": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-23",
