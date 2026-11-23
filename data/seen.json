@@ -408,9 +408,9 @@
     "last_seen": "2026-11-23",
     "notified": false,
     "rent": 31800,
-    "status": "ledig",
+    "status": "reserveret",
     "title": "Nørrebrogade 174, 1. th, 2200 København N",
-    "url": "https://kereby.dk/bolig/norrebrogade-174-1-th-2200-kobenhavn-n/"
+    "url": "https://kereby.dk/bolig/"
   },
   "kereby:28294": {
     "first_seen": "2026-11-07",
