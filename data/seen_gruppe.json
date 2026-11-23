@@ -483,7 +483,7 @@
     "last_seen": "2026-11-23",
     "notified": false,
     "rent": 13933,
-    "status": "reserveret",
+    "status": "udlejet",
     "title": "Nygårdsvej 16, 1. th, 2100 København Ø",
     "url": "https://kereby.dk/bolig/"
   },
@@ -493,7 +493,7 @@
     "notified": true,
     "rent": 18108,
     "reserved_notified": false,
-    "status": "reserveret",
+    "status": "udlejet",
     "title": "Ved Klosteret 4, st. th, 2100 København Ø",
     "url": "https://kereby.dk/bolig/"
   },
