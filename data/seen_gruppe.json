@@ -583,8 +583,8 @@
     "notified": false,
     "rent": 10324,
     "reserved_notified": false,
-    "status": "ledig",
+    "status": "reserveret",
     "title": "Bredegrund 42, st. th, 2300 København S",
-    "url": "https://kereby.dk/bolig/bredegrund-42-st-th-2300-kobenhavn-s/"
+    "url": "https://kereby.dk/bolig/"
   }
 }
