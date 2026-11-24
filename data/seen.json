@@ -314,6 +314,16 @@
     "title": "Kildevej 12, 2. tv.",
     "url": "https://cityapartment.dk/cityapartments/kildevej-12-2-tv/"
   },
+  "cityapartment:39275": {
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "notified": true,
+    "rent": 15600,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Turesensgade 33, 1 tv.",
+    "url": "https://cityapartment.dk/cityapartments/turesensgade-33-1-tv/"
+  },
   "kereby:27113": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-24",
