@@ -678,5 +678,15 @@
     "status": "reserveret",
     "title": "Bredegrund 42, st. th, 2300 København S",
     "url": "https://kereby.dk/bolig/"
+  },
+  "kereby:28766": {
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "notified": false,
+    "rent": 16456,
+    "reserved_notified": false,
+    "status": "reserveret",
+    "title": "Nørrebrogade 28, 3., 2200 København N",
+    "url": "https://kereby.dk/bolig/"
   }
 }
