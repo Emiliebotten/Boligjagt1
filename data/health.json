@@ -5,6 +5,8 @@
   },
   "kereby": {
     "alerted": false,
-    "failures": 0
+    "error": "HTTP 503 fra https://kereby.dk/bolig/",
+    "failures": 1,
+    "since": "2026-11-25T14:59+00:00"
   }
 }
