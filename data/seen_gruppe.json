@@ -273,6 +273,16 @@
     "title": "Turesensgade 33, 1 tv.",
     "url": "https://cityapartment.dk/cityapartments/turesensgade-33-1-tv/"
   },
+  "cityapartment:39279": {
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "notified": false,
+    "rent": 13000,
+    "reserved_notified": false,
+    "status": "ledig",
+    "title": "Falkonervænget 5, st. tv.",
+    "url": "https://cityapartment.dk/cityapartments/falkonervaenget-5-st-tv/"
+  },
   "kereby:27113": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-24",
